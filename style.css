@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/top-section-bg.jpg);
+    background-image: url(top-section-bg.jpg );
     background-size: cover
     
 }
@@ -22,7 +22,7 @@ body{
     margin: 40px;
     border-radius: 10px 10px 10px;
     box-shadow: 10px 10px 10px 10px rgb(7, 221, 193);
-    background-image: url(images/ai-powered-device-concept.jpg);
+    background-image: url(13430324_5215990.jpg);
     background-position: right;
     background-size: cover;
  }
@@ -38,7 +38,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
     text-decoration: solid;
-    background-image: url(images/digital-art-beautiful-mountains.jpg);
+    background-image: url(13446503_5251410.jpg);
     background-position: left;
     background-size: cover;
  }
